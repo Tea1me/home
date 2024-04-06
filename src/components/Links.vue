@@ -70,7 +70,6 @@ const siteIcon = {
   HeartRateMonitor,
   VideoPlus,
   AccessTimeFilledFilled,
-  Fire,
   LaptopCode,
 };
 
